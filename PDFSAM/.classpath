@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lib/itextpdf-5.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/pdfbox-app-1.5.0.jar"/>
+	<classpathentry kind="lib" path="pdfsam-2.2.1_lib/bcmail-jdk14-144.jar"/>
+	<classpathentry kind="lib" path="pdfsam-2.2.1_lib/bcprov-jdk14-144.jar"/>
+	<classpathentry kind="lib" path="pdfsam-2.2.1_lib/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="pdfsam-2.2.1_lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="pdfsam-2.2.1_lib/emp4j-1.0.2.jar"/>
+	<classpathentry kind="lib" path="pdfsam-2.2.1_lib/iscwt.jar"/>
+	<classpathentry kind="lib" path="pdfsam-2.2.1_lib/isfreetype.jar"/>
+	<classpathentry kind="lib" path="pdfsam-2.2.1_lib/isnativec.jar"/>
+	<classpathentry kind="lib" path="pdfsam-2.2.1_lib/isrt.jar"/>
+	<classpathentry kind="lib" path="pdfsam-2.2.1_lib/iText-2.1.7.jar"/>
+	<classpathentry kind="lib" path="pdfsam-2.2.1_lib/itextpdf-5.1.0.jar"/>
+	<classpathentry kind="lib" path="pdfsam-2.2.1_lib/jai_codec.jar"/>
+	<classpathentry kind="lib" path="pdfsam-2.2.1_lib/jai_core.jar"/>
+	<classpathentry kind="lib" path="pdfsam-2.2.1_lib/jai_imageio.jar"/>
+	<classpathentry kind="lib" path="pdfsam-2.2.1_lib/jaxen-1.1.3.jar"/>
+	<classpathentry kind="lib" path="pdfsam-2.2.1_lib/jbig2.jar"/>
+	<classpathentry kind="lib" path="pdfsam-2.2.1_lib/jna.jar"/>
+	<classpathentry kind="lib" path="pdfsam-2.2.1_lib/jPod.jar"/>
+	<classpathentry kind="lib" path="pdfsam-2.2.1_lib/jpodcreator-0.0.1.jar"/>
+	<classpathentry kind="lib" path="pdfsam-2.2.1_lib/jPodFonts.jar"/>
+	<classpathentry kind="lib" path="pdfsam-2.2.1_lib/jPodRenderer.jar"/>
+	<classpathentry kind="lib" path="pdfsam-2.2.1_lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="pdfsam-2.2.1_lib/looks-2.3.1.jar"/>
+	<classpathentry kind="lib" path="pdfsam-2.2.1_lib/pdfbox-app-1.5.0.jar"/>
+	<classpathentry kind="lib" path="pdfsam-2.2.1_lib/pdfsam-console-2.3.1e.jar"/>
+	<classpathentry kind="lib" path="pdfsam-2.2.1_lib/pdfsam-jcmdline-1.0.6.jar"/>
+	<classpathentry kind="lib" path="pdfsam-2.2.1_lib/pdfsam-langpack.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
