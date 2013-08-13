@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pdfsam-gui>
+  <gui-settings>
+    <extended-state value="6"/>
+    <selected-plugin/>
+    <size width="1288" height="778"/>
+    <location xvalue="-4" yvalue="-4"/>
+    <horizontal-divider location="155" width="1278" height="684"/>
+    <vertical-divider location="685" width="1280" height="693"/>
+  </gui-settings>
+</pdfsam-gui>
